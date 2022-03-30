@@ -6,7 +6,7 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_MODULE := mapcruiser
 
-LOCAL_SRC_FILES := MapCruiser.apk
+LOCAL_SRC_FILES := mapcruiser.apk
 
 LOCAL_MODULE_CLASS := APPS
 
